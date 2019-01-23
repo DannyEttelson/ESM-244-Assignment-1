@@ -1,0 +1,11 @@
+---
+title: "244 Assignment 1"
+author: "Danny Ettelson"
+date: "1/23/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
